@@ -12,8 +12,9 @@
 
  ## ⭐ My Path Learning :
 
-| 🎓 Courses | [DQLab]() · [Dicoding]() · [Progate](https://progate.com/courses)|
+|  📒 Documentation R | [R-Data-Science](https://github.com/matapandax/R-for-Data-Science)|
 |:--------|:--------------------|
+| 🎓 Courses | [DQLab]() · [Dicoding]() · [Progate](https://progate.com/courses)|
 | ⚙ Projects | [Google Data Dev - Visualisasi Data](https://github.com/matapandax/Googledatastudio-Visualisasi) ·  | 
 
 ## 💻Languages and Tools 
