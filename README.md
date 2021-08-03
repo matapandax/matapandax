@@ -12,10 +12,10 @@
 
  ## ⭐ My Path Learning :
 
-|  📒 Documentation R | [R-Data-Science](https://github.com/matapandax/R-for-Data-Science)|
+|  📒 Documentation R | [R-Data-Science.](https://github.com/matapandax/R-for-Data-Science)|
 |:--------|:--------------------|
-| 🎓 Courses | [DQLab]() · [Dicoding]() · [Progate](https://progate.com/courses)|
-| ⚙ Projects | [Google Data Dev - Visualisasi Data](https://github.com/matapandax/Googledatastudio-Visualisasi) ·  | 
+| 🎓  My Certificated Courses |📚[Progate.DQlabs.Dcoding.](https://drive.google.com/drive/folders/1gC8e94RZvAKdSvbuVgOXEKwXvXtAUSM7?usp=sharinghttps://drive.google.com/drive/folders/1gC8e94RZvAKdSvbuVgOXEKwXvXtAUSM7?usp=sharing)|
+| ⚙ Projects | [Google Data Dev - Visualisasi Data.](https://github.com/matapandax/Googledatastudio-Visualisasi) ·  | 
 
 ## 💻Languages and Tools 
 <p align="left"> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
