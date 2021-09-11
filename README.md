@@ -1,14 +1,14 @@
 # Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"> I'm Caesario Satriatama 🧑🏻
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matapandax&label=Profile%20views&color=0e75b6&style=flat" alt="matapandax" /> </p>
 <p align="justify">
-  Perkernalkan saya Caesario Satriatama, saya lulusan Sarjana komputer, pengalaman saya dalam dunia kerja adalah pernah menjadi Database Administrator Di telunjuk.com, Melakukan Riset Dan megumpulkan data data untuk membangun aplikasi di LAPAN. serta menjadi freelance untuk mengembangkan aplikasi, serta berpartisipasi dalam program #generasigigih by gojeg dan YABB dan IDCAMP 2021 by indosat
+  full time learning about system Analyst and Data Analyst, more than 2 year contribute as IT Staff, Good understanding to make documentation for Web Development as Erd, Flowchart, Database. Solve Problem 80% on manage business project
 </p>
 
 - 🔭 I’m currently working on **Freelance**
 
 - 🌱 I’m currently learning **Data Analyst**
 
-- 📫 How to reach me **Caesariosatriatama@gmail.com**
+- 📫 How to reach me **Caesariosatriatama@gmail.com**  and my Resume📢 [Link](https://drive.google.com/file/d/1nrrNgvt0hlq9zoYmY0NlCgCWYnyfy8UA/view?usp=sharing)
 
  ## ⭐ My Path Learning :
 
