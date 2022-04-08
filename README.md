@@ -4,9 +4,9 @@
   full time learning about system Analyst and Data Analyst, more than 2 year contribute as IT Staff, Good understanding to make documentation for Web Development as Erd, Flowchart, Database. Solve Problem 80% on manage business project
 </p>
 
-- 🔭 I’m currently working on **Freelance**
+- 🔭 I’m currently working on **Backend - Universitas Terbuka**
 
-- 🌱 I’m currently learning **Data Analyst**
+- 🌱 I’m currently learning **openedX**
 
 - 📫 How to reach me **Caesariosatriatama@gmail.com**  and my Resume📢 [Link](https://drive.google.com/file/d/1nrrNgvt0hlq9zoYmY0NlCgCWYnyfy8UA/view?usp=sharing)
 
