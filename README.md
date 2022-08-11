@@ -1,7 +1,7 @@
 # Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"> I'm Caesario Satriatama 🧑🏻
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matapandax&label=Profile%20views&color=0e75b6&style=flat" alt="matapandax" /> </p>
 <p align="justify">
-  full time learning about system Analyst and Data Analyst, more than 2 year contribute as IT Staff, Good understanding to make documentation for Web Development as Erd, Flowchart, Database. Solve Problem 80% on manage business project
+    Halo, selamat datang di kearsipan digital milik saya, semua yang saya share disini adalah arsip pendukung ketika saya belajar Hal baru dalam bahasa pemrograman, project yang saya kerjakan dan sekedar hasil oprek. Harapan saya, siapapun yang berkunjung bisa mendapatkan maanfaat untuk pengembangan yang sedang di kerjakan atau hanya sekedar mencari refrensi untuk pembelajaran. terima kasih   
 </p>
 
 - 🔭 I’m currently working on **Backend - Universitas Terbuka**
