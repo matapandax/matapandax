@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **openedX**
 
-- 📫 How to reach me **Caesariosatriatama@gmail.com**  and my Resume📢 [Link](https://drive.google.com/file/d/1nrrNgvt0hlq9zoYmY0NlCgCWYnyfy8UA/view?usp=sharing)
+- 📫 How to reach me **Caesariosatriatama@gmail.com**  
 
  ## ⭐ My Path Learning :
 
