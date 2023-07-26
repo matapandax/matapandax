@@ -14,7 +14,7 @@
 
 |  📒 Documentation R | [R-Data-Science.](https://github.com/matapandax/R-for-Data-Science)|
 |:--------|:--------------------|
-| 🎓  My Certificated Courses |📚[Progate.DQlabs.Dcoding.](https://drive.google.com/drive/folders/1gC8e94RZvAKdSvbuVgOXEKwXvXtAUSM7?usp=sharinghttps://drive.google.com/drive/folders/1gC8e94RZvAKdSvbuVgOXEKwXvXtAUSM7?usp=sharing)|
+| 🎓  My Certificated Courses |📚[Progate.DQlabs.Dcoding.](https://drive.google.com/drive/folders/1gC8e94RZvAKdSvbuVgOXEKwXvXtAUSM7?usp=sharinghttps://drive.google.com/drive/folders/1gC8e94RZvAKdSvbuVgOXEKwXvXtAUSM7?usp=sharing)
 
 
 ## 💻Languages and Tools 
