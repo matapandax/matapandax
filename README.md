@@ -6,8 +6,6 @@
 
 - 🔭 I’m currently working on **Backend - Universitas Terbuka**
 
-- 🌱 I’m currently learning **openEdx**
-
 - 📫 How to reach me **Caesariosatriatama@gmail.com**  
 
  ## ⭐ My Path Learning :
