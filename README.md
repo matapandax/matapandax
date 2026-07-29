@@ -86,8 +86,6 @@ Tools
 
 Selain repository, saya juga mendokumentasikan perjalanan belajar melalui berbagai kursus dan sertifikasi.
 
-📚 Sertifikat:
-https://drive.google.com/drive/folders/1gC8e94RZvAKdSvbuVgOXEKwXvXtAUSM7
 
 ---
 
